@@ -1,5 +1,6 @@
 Flask
 Flask-Cors
 torch
+torchvision
 Pillow
 gunicorn
